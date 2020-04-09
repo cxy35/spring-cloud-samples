@@ -12,8 +12,8 @@
 |示例代码|相关文章|
 |:-|:-|
 |[spring-cloud-eureka](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-boot-eureka)|Spring Cloud Eureka 服务注册中心|
-|[spring-cloud-eureka/eureka-server](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-server)||
-|[spring-cloud-eureka/eureka-servercluster](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-servercluster)||
+|[spring-cloud-eureka/eureka-server](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-server)|Spring Cloud Eureka 搭建服务注册中心（单机）|
+|[spring-cloud-eureka/eureka-servercluster](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-servercluster)|Spring Cloud Eureka 搭建服务注册中心（集群）|
 
 
 ---
