@@ -20,7 +20,7 @@ public class ConsumerController {
 
     @GetMapping("/testConsul")
     public String testConsul() {
-        ServiceInstance choose = loadBalancerClient.choose("provider");
+        ServiceInstance choose = loadBalancerClient.choose("consul-client-provider");
         System.out.println("服务地址：" + choose.getUri());
         System.out.println("服务名称：" + choose.getServiceId());
         String s = restTemplate.getForObject(choose.getUri() + "/hello", String.class);
