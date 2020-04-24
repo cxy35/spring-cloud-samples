@@ -15,9 +15,15 @@
 |[spring-cloud-eureka](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka)|[Spring Cloud Eureka 介绍](http://www.cxy35.com/2020/04/07/SpringCloud/spring-cloud-eureka-overview/)|
 |[spring-cloud-eureka/eureka-server](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-server)|[Spring Cloud Eureka 搭建服务注册中心（单机模式）](https://mp.weixin.qq.com/s/v3KbL_QnHVxuio73Am9v-A)|
 |[spring-cloud-eureka/eureka-servercluster](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-servercluster)|[Spring Cloud Eureka 搭建服务注册中心（集群模式）](https://mp.weixin.qq.com/s/v3KbL_QnHVxuio73Am9v-A)|
-|[spring-cloud-eureka/eureka-client-provider](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka//eureka-client-provider)|[Spring Cloud 中 Eureka Client 实现服务注册与消费（服务注册）](https://mp.weixin.qq.com/s/APfg9FsCf_vZk8Ej0GElFg)|
-|[spring-cloud-eureka/eureka-client-consumer](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka//eureka-client-consumer)|[Spring Cloud 中 Eureka Client 实现服务注册与消费（服务消费）](https://mp.weixin.qq.com/s/APfg9FsCf_vZk8Ej0GElFg)|
-|spring-cloud-resttemplate|[Spring Cloud 中 RestTemplate 的使用说明]()|
+|[spring-cloud-eureka/eureka-client-provider](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-client-provider)|[Spring Cloud 中 Eureka Client 实现服务注册与消费（服务注册）](https://mp.weixin.qq.com/s/APfg9FsCf_vZk8Ej0GElFg)|
+|[spring-cloud-eureka/eureka-client-consumer](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka/eureka-client-consumer)|[Spring Cloud 中 Eureka Client 实现服务注册与消费（服务消费）](https://mp.weixin.qq.com/s/APfg9FsCf_vZk8Ej0GElFg)|
+|spring-cloud-resttemplate|[Spring Cloud 中 RestTemplate 的使用说明](https://mp.weixin.qq.com/s/mJkqtckvWnxia4yOmZqS6w)|
+|[spring-cloud-consul/consul-client-provider](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-consul/consul-client-provider)|[Spring Cloud 中 Consul 实现服务注册与消费（服务注册）](https://mp.weixin.qq.com/s/V8ZtUlD55W0LTC9NjF2jfQ)|
+|[spring-cloud-consul/consul-client-consumer](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-consul/consul-client-consumer)|[Spring Cloud 中 Consul 实现服务注册与消费（服务消费）](https://mp.weixin.qq.com/s/V8ZtUlD55W0LTC9NjF2jfQ)|
+|[spring-cloud-hystrix/hystrix-client-provider](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-hystrix/hystrix-client-provider)|[Spring Cloud 中 Hystrix 实现断路器（服务注册）](https://mp.weixin.qq.com/s/eDqpM7xaePpF5c7v9BIqgg)|
+|[spring-cloud-hystrix/hystrix-client-consumer](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-hystrix/hystrix-client-consumer)|[Spring Cloud 中 Hystrix 实现断路器（服务消费）](https://mp.weixin.qq.com/s/eDqpM7xaePpF5c7v9BIqgg)|
+|[spring-cloud-openfeign/openfeign-client-provider](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-openfeign/openfeign-client-provider)|[Spring Cloud 中 OpenFeign 实现声明式服务调用（服务注册）]()|
+|[spring-cloud-openfeign/openfeign-client-consumer](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-openfeign/openfeign-client-consumer)|[Spring Cloud 中 OpenFeign 实现声明式服务调用（服务消费）]()|
 
 
 ---

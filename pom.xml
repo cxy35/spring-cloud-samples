@@ -12,6 +12,9 @@
     <modules>
         <module>spring-cloud-common</module>
         <module>spring-cloud-eureka</module>
+        <module>spring-cloud-consul</module>
+        <module>spring-cloud-hystrix</module>
+        <module>spring-cloud-openfeign</module>
     </modules>
 
     <properties>

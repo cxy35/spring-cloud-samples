@@ -8,5 +8,9 @@
     <artifactId>spring-cloud-consul</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>consul-client-provider</module>
+        <module>consul-client-consumer</module>
+    </modules>
 
 </project>
