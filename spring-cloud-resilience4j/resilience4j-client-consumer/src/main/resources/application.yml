@@ -1,0 +1,36 @@
+# 当前服务的名称
+spring:
+  application:
+    name: resilience4j-client-consumer
+# 当前服务的端口
+server:
+  port: 5002
+
+# 服务注册中心地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:1111/eureka
+
+# Resilience4j 配置
+resilience4j:
+  # 配置断路器
+  circuitbreaker:
+    circuit-breaker-aspect-order: 398 # 优先级
+    instances:
+      cbA:
+        ringBufferSizeInHalfOpenState: 3 # 当断路器处于 HalfOpen 状态时，环形缓冲区的大小
+        ringBufferSizeInClosedState: 5 # 当断路器处于 Closed 状态时，环形缓冲区的大小
+        waitInterval: 5000
+        recordExceptions:
+          - org.springframework.web.client.HttpServerErrorException # 记录异常
+  # 配置请求重试
+  retry:
+    retry-aspect-order: 399 # 优先级
+    backends:
+      retryA:
+        maxRetryAttempts: 5 # 重试次数
+        waitDuration: 500 # 重试等待时间
+        exponentialBackoffMultiplier: 1.1 # 间隔乘数
+        retryExceptions:
+          - java.lang.RuntimeException # 重试异常
