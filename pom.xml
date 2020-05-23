@@ -22,6 +22,8 @@
         <module>spring-cloud-bus</module>
         <module>spring-cloud-stream</module>
         <module>spring-cloud-sleuth</module>
+        <module>spring-cloud-nacos</module>
+        <module>spring-cloud-sentinel</module>
     </modules>
 
     <properties>
