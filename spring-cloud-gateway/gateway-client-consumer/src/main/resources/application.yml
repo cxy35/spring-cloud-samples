@@ -23,7 +23,8 @@ spring:
             - Method=GET
       discovery:
         locator:
-          enabled: true # \u5F00\u542F\u81EA\u52A8\u4EE3\u7406
+          enabled: true # \u5f00\u542f\u4ece\u6ce8\u518c\u4e2d\u5fc3\u52a8\u6001\u521b\u5efa\u8def\u7531\u7684\u529f\u80fd
+          # lower-case-service-id: true # \u4f7f\u7528\u5c0f\u5199\u670d\u52a1\u540d\uff0c\u9ed8\u8ba4\u662f\u5927\u5199
 # \u5F53\u524D\u670D\u52A1\u7684\u7AEF\u53E3
 server:
   port: 7002
