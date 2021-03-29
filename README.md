@@ -22,8 +22,8 @@
 |[Spring Cloud Gateway 服务网关](https://mp.weixin.qq.com/s/7US02oSv-wZY26tCmjDFuQ)|[spring-cloud-gateway](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-gateway)|
 |[Spring Cloud Config 分布式配置中心](https://mp.weixin.qq.com/s/QRO0WBoPS_13IdK_VoAWzA)|[spring-cloud-config](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-config)|
 |[Spring Cloud Bus 消息总线](https://mp.weixin.qq.com/s/1754BmL621hd3y0feVzw-A)|[spring-cloud-bus](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-bus)|
-|[Spring Cloud Stream 构建消息驱动的微服务](https://mp.weixin.qq.com/s/sbCJFZdfH0VOie47X3Do3A)|[spring-cloud-stream](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-stream)|
 |[Spring Cloud Sleuth 链路追踪](https://mp.weixin.qq.com/s/gInREoP0d-f47MRgXOa-9g)|[spring-cloud-sleuth](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-sleuth)|
+|[Spring Cloud Stream 构建消息驱动的微服务](https://mp.weixin.qq.com/s/sbCJFZdfH0VOie47X3Do3A)|[spring-cloud-stream](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-stream)|
 |[Spring Cloud OpenFeign 声明式服务调用](https://mp.weixin.qq.com/s/4N-pz6ikvubjRdp9osI2JQ)|[spring-cloud-openfeign](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-openfeign)|
 |[Spring Cloud 中 RestTemplate 的使用说明](https://mp.weixin.qq.com/s/mJkqtckvWnxia4yOmZqS6w)|spring-cloud-resttemplate|
 
