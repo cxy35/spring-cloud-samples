@@ -12,13 +12,13 @@
 |相关文章|示例代码|
 |:-|:-|
 |[Spring Cloud 概述](https://mp.weixin.qq.com/s/fV2CJ2SE2qGdSMYiiSXoTg)|spring-cloud-overview|
-|[Spring Cloud Netflix Eureka 服务注册与发现](https://www.cxy35.com/#/docs/springcloud/spring-cloud-netflix-eureka)|[spring-cloud-eureka](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-eureka)|
-|[Spring Cloud Alibaba Nacos 服务注册与配置中心](https://mp.weixin.qq.com/s/C4lxtlT_2hSC-scuQsMoiQ)|[spring-cloud-nacos](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-nacos)|
+|[Spring Cloud Netflix Eureka 服务注册与发现](https://www.cxy35.com/#/docs/springcloud/spring-cloud-netflix-eureka)|[spring-cloud-netflix-eureka](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-netflix-eureka)|
+|[Spring Cloud Alibaba Nacos 服务注册与配置中心](https://mp.weixin.qq.com/s/C4lxtlT_2hSC-scuQsMoiQ)|[spring-cloud-alibaba-nacos](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-alibaba-nacos)|
 |[Spring Cloud Consul 服务注册与发现](https://mp.weixin.qq.com/s/5sNag-g_v9dj0tU-i6T63g)|[spring-cloud-consul](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-consul)|
-|[Spring Cloud Netflix Hystrix 断路器](https://mp.weixin.qq.com/s/Lkju0BKI7znHBfDYcCwfTw)|[spring-cloud-hystrix](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-hystrix)|
-|[Spring Cloud Alibaba Sentinel 断路器](https://mp.weixin.qq.com/s/9BRimS7pCIqdRfMd84-AFQ)|[spring-cloud-sentinel](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-sentinel)|
+|[Spring Cloud Netflix Hystrix 断路器](https://mp.weixin.qq.com/s/Lkju0BKI7znHBfDYcCwfTw)|[spring-cloud-netflix-hystrix](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-netflix-hystrix)|
+|[Spring Cloud Alibaba Sentinel 断路器](https://mp.weixin.qq.com/s/9BRimS7pCIqdRfMd84-AFQ)|[spring-cloud-alibaba-sentinel](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-alibaba-sentinel)|
 |[Spring Cloud Resilience4j 断路器](https://mp.weixin.qq.com/s/Pc4EtEiqHvEF-iDvyAB0aw)|[spring-cloud-resilience4j](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-resilience4j)|
-|[Spring Cloud Netflix Zuul 服务网关](https://mp.weixin.qq.com/s/Zf1HKJRULTIpA9ZKfYlgqg)|[spring-cloud-zuul](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-zuul)|
+|[Spring Cloud Netflix Zuul 服务网关](https://mp.weixin.qq.com/s/Zf1HKJRULTIpA9ZKfYlgqg)|[spring-cloud-netflix-zuul](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-netflix-zuul)|
 |[Spring Cloud Gateway 服务网关](https://mp.weixin.qq.com/s/7US02oSv-wZY26tCmjDFuQ)|[spring-cloud-gateway](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-gateway)|
 |[Spring Cloud Config 分布式配置中心](https://mp.weixin.qq.com/s/QRO0WBoPS_13IdK_VoAWzA)|[spring-cloud-config](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-config)|
 |[Spring Cloud Bus 消息总线](https://mp.weixin.qq.com/s/1754BmL621hd3y0feVzw-A)|[spring-cloud-bus](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-bus)|

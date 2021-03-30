@@ -5,8 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxy35.sample</groupId>
-    <artifactId>spring-cloud-samples</artifactId>
+    <artifactId>spring-cloud-netflix-eureka</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>eureka-server</module>
+        <module>eureka-servercluster</module>
+        <module>eureka-client-provider</module>
+        <module>eureka-client-consumer</module>
+    </modules>
 
 </project>

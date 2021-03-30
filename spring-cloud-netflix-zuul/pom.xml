@@ -5,8 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxy35.sample</groupId>
-    <artifactId>spring-cloud-samples</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>spring-cloud-netflix-zuul</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>zuul-client-provider</module>
+        <module>zuul-client-consumer</module>
+    </modules>
 
 </project>

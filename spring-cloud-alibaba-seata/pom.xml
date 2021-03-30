@@ -5,8 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxy35.sample</groupId>
-    <artifactId>spring-cloud-samples</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>spring-cloud-alibaba-seata</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>seata-order-service</module>
+        <module>seata-storage-service</module>
+        <module>seata-account-service</module>
+    </modules>
 
 </project>

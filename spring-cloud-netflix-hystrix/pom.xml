@@ -5,8 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxy35.sample</groupId>
-    <artifactId>spring-cloud-samples</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>spring-cloud-netflix-hystrix</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>hystrix-client-provider</module>
+        <module>hystrix-client-consumer</module>
+    </modules>
 
 </project>

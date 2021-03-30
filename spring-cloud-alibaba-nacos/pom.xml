@@ -5,8 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cxy35.sample</groupId>
-    <artifactId>spring-cloud-samples</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>spring-cloud-alibaba-nacos</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>nacos-config</module>
+        <module>nacos-client-provider</module>
+        <module>nacos-client-consumer</module>
+    </modules>
 
 </project>
