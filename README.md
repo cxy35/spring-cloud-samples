@@ -26,6 +26,7 @@
 |[Spring Cloud Stream 构建消息驱动的微服务](https://mp.weixin.qq.com/s/sbCJFZdfH0VOie47X3Do3A)|[spring-cloud-stream](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-stream)|
 |[Spring Cloud OpenFeign 声明式服务调用](https://mp.weixin.qq.com/s/4N-pz6ikvubjRdp9osI2JQ)|[spring-cloud-openfeign](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-openfeign)|
 |[Spring Cloud 中 RestTemplate 的使用说明](https://mp.weixin.qq.com/s/mJkqtckvWnxia4yOmZqS6w)|spring-cloud-resttemplate|
+|[Spring Cloud Alibaba Seata 分布式事务](https://www.cxy35.com/#/docs/springcloud/spring-cloud-alibaba-seata)|[spring-cloud-alibaba-seata](https://github.com/cxy35/spring-cloud-samples/tree/master/spring-cloud-alibaba-seata)|
 
 
 ---
